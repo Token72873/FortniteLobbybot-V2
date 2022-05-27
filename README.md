@@ -1,2 +1,5 @@
-# FortniteLobbybot-V2
-Fortniteロビボットを作ることができます
+お使いの端末によっては改造できません
+Androidは対応していません
+お問い合わせは、作成者のホームページまでお願いします
+https://nanoka-1.jimdosite.com/
+ログイン起動時にかたまることがあります
